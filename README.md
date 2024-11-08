@@ -1,1 +1,2 @@
-# Dataset
+# Smart contract Dataset
+The purpose of making this data set public is to demonstrate the data set we used in our experiments, and to facilitate community research, our data set has been added with events using ChatGPT-4. The data set contains a total of 695 smart contracts.
